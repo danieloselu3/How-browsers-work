@@ -15,7 +15,3 @@ Upon receiving the request,the web server then sends back an HTTP response which
 The response contains the website in HTML[Hypertext Markup Language] form which the browsers translates to display the complete site as viewed from the screen.HTML is just a language used to design websites,and is made up of elements sorrounded by tags.
 
 When we are online,behind the screens,our browsers are constantly at work communicating with servers around the world to display the sites we request.These processes repeat everytime we click a link,at amazingly less than a second.
-
-(http://www.webopedia.com/quick_ref/internet_browsers.asp)
-(https://www.youtube.com/watch?v=-fmypAd12a4)
-(https://en.wikipedia.org/wiki/Web_browser)
